@@ -1,3 +1,6 @@
+
+## 🚨🚧 THIS IS AN UNOFFICIAL FORK; USE IT AT YOUR OWN RISK 🚧 🚨
+
 # eslint-config-airbnb
 
 [![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)](http://badge.fury.io/js/eslint-config-airbnb)

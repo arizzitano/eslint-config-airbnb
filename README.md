@@ -69,4 +69,3 @@ Consider adding test cases if you're making complicated rules changes, like anyt
 You can run tests with `npm test`.
 
 You can make sure this module lints with itself using `npm run lint`.
-# eslint-config-airbnb
